@@ -1,0 +1,2 @@
+# MultipleUserTracker
+ It is a location based android application that tracks mulitiple users in real time and calculates distance from admin. It divides users into two clusters  which are inner and outer consider a given distance by admin. Users who are considered as outers,application users machine learning clustering algorithm to identifies that outers are in the group or not. It will fire notification for the users who turn on their gps or turns off their gps and it will also fire notification for the users who are consider as outers and do not located any group. 
